@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Token Sale Dapp -ICO
+- 🔭 I’m currently working smart contract auditing and Zero Knowledge proof.
 
 - 🌱 I’m currently learning Hyperledger, ZeroKnowledge proof ,cryptography
 <!-- - 👯 I’m looking to collaborate on ...
