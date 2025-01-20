@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working smart contract auditing and Zero Knowledge proof.
+- 🔭 I’m currently working in Rust projects and Zero Knowledge proof.
 
 - 🌱 I’m currently learning Ethereum Core, ZeroKnowledge proof ,cryptography
 <!-- - 👯 I’m looking to collaborate on ...
