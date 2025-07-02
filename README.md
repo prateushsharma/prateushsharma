@@ -11,6 +11,7 @@
 - 📫 How to reach me:
 - 1: prateushsharma@gmail.com
 - 2: https://www.linkedin.com/in/prateushsharma
+- 3: https://x.com/PrateushSharma
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
