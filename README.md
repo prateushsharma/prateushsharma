@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning Ethereum Core, ZeroKnowledge proof ,cryptography
 
-- 🏆Winner AGENTIC ETHEREUM 🤖,ETH INDIA 24🪙, ALeph Hackathon - Stellar Track 🍾, BASE- Wallet Risk Scoring Hackathon 1st prize, Chainlink Chromium Hackathon Avalanche Track 💞
+- Winner AGENTIC ETHEREUM 🤖
+- ETH INDIA 24🪙
+- ALeph Hackathon - Stellar Track 🍾
+- BASE- Wallet Risk Scoring Hackathon 1st prize
+- Chainlink Chromium Hackathon Avalanche Track 💞
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
