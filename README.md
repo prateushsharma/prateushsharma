@@ -5,7 +5,7 @@
 
 - Winner AGENTIC ETHEREUM 🤖
 - ETH INDIA 24🪙
-- ALeph Hackathon - Stellar Track 🍾
+- ALeph Hackathon x2 - Stellar Track 🍾 , Citrea Track 💘
 - BASE- Wallet Risk Scoring Hackathon 1st prize
 - Chainlink Chromium Hackathon Avalanche Track 💞
 - Umi-try-a-thon 1st prize
