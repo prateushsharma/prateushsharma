@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working in Rust projects and Zero Knowledge proof.
 
-- 🌱 I’m currently learning Ethereum Core, ZeroKnowledge proof ,cryptography
+- 🌱 I’m currently learning Ethereum Core, Zero-Knowledge proof,cryptography
+- I am actively working on Blobs and PeerDAS these days
 
 - Winner AGENTIC ETHEREUM 🤖
 - ETH INDIA 24🪙
