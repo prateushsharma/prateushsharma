@@ -89,4 +89,6 @@
 <div align="center">
 <sub>Always building. Always curious.</sub>
 </div>
-![](https://komarev.com/ghpvc/?username=prateushsharma$color=brightgreen)
+```markdown
+![](https://komarev.com/ghpvc/?username=prateushsharma&color=brightgreen)
+```
