@@ -90,5 +90,6 @@
 <sub>Always building. Always curious.</sub>
 </div>
 
-![](https://komarev.com/ghpvc/?username=prateushsharma&color=brightgreen)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prateushsharma&label=Profile%20views%20since%20May%202026&color=0e75b6&style=flat" alt="profile views" />
+</p>
