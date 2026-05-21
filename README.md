@@ -19,6 +19,7 @@
 - ⚙️ Contributed to **Umi Network** building cross-VM execution logic bridging MoveVM ↔ EVM and the Umi Agent Kit SDK
 - 🌐 Deep interest in **Ethereum core** — studying OP Stack, PeerDAS, blob transactions, and the devp2p networking layer
 - 🏗️ I build things I want to understand deeply — both projects below were written from scratch
+- 🔗 Building **[ExternEVM](https://github.com/ExternEVM/ExternEVM)** — a custom EVM chain with protocol-level API precompiles, custom consensus layer, and multi-node median aggregation.
 
 ---
 ## 🛠 Stack
@@ -26,7 +27,7 @@
 `Rust` `Solidity` `Move` `ZK Proofs` `OP Stack` `EVM` `P2P / devp2p` `gRPC` `Cairo / Starknet` `Protobuf` `KZG` `secp256k1`
 
 ## 🔬 Currently Working On
-
+- **ExternEVM** — multi-node median aggregation via custom devp2p subprotocol, consensus layer binary over Engine API, roadmap toward commit-reveal and stake-weighted finalization
 - **Blobs + PeerDAS** — EIP-4844 data availability, KZG commitments, peer sampling
 - **Rust ZKP systems** — Chaum-Pedersen, Fiat-Shamir, secp256k1 implementations
 - **Ethereum core internals** — devp2p, RLPx, fork detection, ENR/discv5
@@ -35,6 +36,10 @@
 ---
 
 ## 🦀 Projects
+
+**[ExternEVM](https://github.com/ExternEVM/ExternEVM)**
+> Custom Reth-based EVM runtime where Solidity contracts call external APIs during execution — at the protocol level. Forked Reth's execution client, implemented a native precompile at 0xAA that performs real HTTP calls inside block execution, built a custom `extern/1` devp2p subprotocol for cross-node value broadcasting with median aggregation, and designed a standalone consensus layer binary over the Ethereum Engine API with JWT-authenticated round-robin PoA. Full protocol evolution from single-node direct execution through commit-reveal consensus, stake-weighted slashing, to TEE/ZK proof-of-fetch.
+`Rust` `Reth` `revm` `alloy-sol-types` `devp2p` `RLPx` `Engine API` `Solidity` `reqwest` `tokio` `Docker`
 
 **[EthNetLite](https://github.com/PrateushSharma/EthNetLite)**
 > Ethereum P2P networking stack built from scratch in Rust. Implements Kademlia DHT, ENR, discv5 peer discovery, RLPx/devp2p encrypted transport, and the ETH/66 wire protocol with fork-aware handshaking.
