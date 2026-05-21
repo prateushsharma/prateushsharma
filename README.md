@@ -27,7 +27,7 @@
 `Rust` `Solidity` `Move` `ZK Proofs` `OP Stack` `EVM` `P2P / devp2p` `gRPC` `Cairo / Starknet` `Protobuf` `KZG` `secp256k1`
 
 ## 🔬 Currently Working On
-- **ExternEVM** — multi-node median aggregation via custom devp2p subprotocol, consensus layer binary over Engine API, roadmap toward commit-reveal and stake-weighted finalization
+- **[ExternEVM](https://github.com/ExternEVM/ExternEVM)** — building a custom EVM chain where smart contracts call live APIs during execution. Modified Reth execution client, custom precompile, custom consensus layer, multi-node validator aggregation
 - **Blobs + PeerDAS** — EIP-4844 data availability, KZG commitments, peer sampling
 - **Rust ZKP systems** — Chaum-Pedersen, Fiat-Shamir, secp256k1 implementations
 - **Ethereum core internals** — devp2p, RLPx, fork detection, ENR/discv5
